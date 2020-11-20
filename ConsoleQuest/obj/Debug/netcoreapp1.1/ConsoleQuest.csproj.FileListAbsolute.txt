@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2017\Projects\ConsoleQuest\ConsoleQuest\bin\Debug\netcoreapp1.1\ConsoleQuest.deps.json
+D:\Documents\Visual Studio 2017\Projects\ConsoleQuest\ConsoleQuest\bin\Debug\netcoreapp1.1\ConsoleQuest.runtimeconfig.json
+D:\Documents\Visual Studio 2017\Projects\ConsoleQuest\ConsoleQuest\bin\Debug\netcoreapp1.1\ConsoleQuest.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\Projects\ConsoleQuest\ConsoleQuest\bin\Debug\netcoreapp1.1\ConsoleQuest.dll
+D:\Documents\Visual Studio 2017\Projects\ConsoleQuest\ConsoleQuest\bin\Debug\netcoreapp1.1\ConsoleQuest.pdb
+D:\Documents\Visual Studio 2017\Projects\ConsoleQuest\ConsoleQuest\obj\Debug\netcoreapp1.1\ConsoleQuest.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\ConsoleQuest\ConsoleQuest\obj\Debug\netcoreapp1.1\ConsoleQuest.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\Projects\ConsoleQuest\ConsoleQuest\obj\Debug\netcoreapp1.1\ConsoleQuest.dll
+D:\Documents\Visual Studio 2017\Projects\ConsoleQuest\ConsoleQuest\obj\Debug\netcoreapp1.1\ConsoleQuest.pdb
