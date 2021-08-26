@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Threading;
-using System.Text;
 
 namespace ConsoleQuest
 {
@@ -9,7 +7,7 @@ namespace ConsoleQuest
     {
         public Game()
         {
-            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            Console.OutputEncoding = System.Text.Encoding.Unicode;
             Input.Init();
         }
         private static int WriteDelay = 70;

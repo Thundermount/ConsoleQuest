@@ -1,16 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace ConsoleQuest
 {
     class Input
     {
-        static Nullable <ConsoleKey> k;
-        static Task process;
+        private static Nullable <ConsoleKey> k;
+        private static Task process;
         // Запускается только один раз
-        public static void Init()
+        internal static void Init()
         {
             if (process != null) return;
             process = Task.Run(ReciveInput);
